@@ -2,6 +2,7 @@
 Student ID: 1651030 <br />
 Student Name: TRẦN THANH TÂN <br />
 Unity version: 2019.1.4f1 <br />
+Build link on Google Drive: https://drive.google.com/drive/folders/1tSYFhPIQixMUezBR-5LSTF62p3JiwrPn?usp=sharing
 Application description:
 -	Project Name:  Jumping Sheep 3D
 -	Building platform: Unity
