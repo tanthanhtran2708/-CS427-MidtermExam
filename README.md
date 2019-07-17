@@ -6,4 +6,4 @@ Application description:
 -	Project Name:  Jumping Sheep 3D
 -	Building platform: Unity
 -	Available for:  PC, iOS devices.
--	Basic idea: Flappy Bird – to create a game having both friendly UX, UI and easy for users at all ages to approach the game play. 
+-	Basic idea: Flappy Bird – to create a game having both friendly UX, UI and easy for users at all ages to approach the game play. The game will have unlimited levels in other to stimulate users'curiosity to play over and over again.
